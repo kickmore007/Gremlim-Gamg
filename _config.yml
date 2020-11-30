@@ -1,1 +1,6 @@
+title: Gremlim Gamg
 logo: /logo.png
+description: Dumb idiots dumb
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
