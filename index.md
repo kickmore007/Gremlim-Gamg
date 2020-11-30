@@ -4,8 +4,8 @@ Just post stuff
 
 lmfaooooooooooooo
 
-> Oh look quote test
-> THis is cool
+> Oh look quote text
+> This is cool
 
 MAKRDOWN IS SO EASY
 ok now post
